@@ -55,11 +55,13 @@
   <ItemGroup>
     <Content Include="assets\rope-animated.png" />
     <None Include="assets\content-pack.json" />
+    <None Include="LICENSE" />
     <None Include="manifest.json" />
     <Content Include="assets\Objects\Escape Rope\object.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <None Include="packages.config" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\Objects\Escape Rope\object.png">
